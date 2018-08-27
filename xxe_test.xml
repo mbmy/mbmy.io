@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Module [ <!ENTITY issue SYSTEM "file:///etc/passwd"> ]>
+<!DOCTYPE Module [ <!ENTITY passwd SYSTEM "file:///etc/passwd"> ]>
 <Module>
 <ModulePrefs title="TestXXE">
 <Require feature="opensocial-0.9" />
