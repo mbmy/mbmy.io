@@ -5,6 +5,6 @@
 <Require feature="opensocial-0.9" />
 </ModulePrefs>
 <Content type="html">
-&passwd; hello
+&passwd;
 </Content>
 </Module>
